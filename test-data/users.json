@@ -1,0 +1,23 @@
+
+{
+  "newUser": {
+    "name": "QA Automation",
+    "password": "TestPass123!",
+    "firstName": "QA",
+    "lastName": "Tester",
+    "company": "Automation Labs",
+    "address": "123 Test Street",
+    "country": "India",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "zipcode": "560001",
+    "mobile": "9876543210",
+    "day": "10",
+    "month": "5",
+    "year": "1998"
+  },
+  "invalidUser": {
+    "email": "invalid_user@example.com",
+    "password": "WrongPassword123"
+  }
+}

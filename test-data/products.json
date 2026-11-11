@@ -1,0 +1,8 @@
+
+{
+  "searchProducts": [
+    "Blue Top",
+    "Men Tshirt"
+  ],
+  "invalidProduct": "NonExistingProductXYZ"
+}

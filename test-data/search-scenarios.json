@@ -1,0 +1,15 @@
+
+[
+  {
+    "keyword": "Blue Top",
+    "expectedResults": true
+  },
+  {
+    "keyword": "Men Tshirt",
+    "expectedResults": true
+  },
+  {
+    "keyword": "NonExistingProductXYZ",
+    "expectedResults": false
+  }
+]
