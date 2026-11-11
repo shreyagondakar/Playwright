@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # E-Commerce Web Automation Testing
 
@@ -85,3 +86,7 @@ npx playwright show-report
 
 GitHub Actions executes automated tests
 on pushes and pull requests.
+=======
+# Playwright
+ E-Commerce Web Automation Testing 
+>>>>>>> origin/main
